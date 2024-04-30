@@ -11,23 +11,18 @@ The dataset that was chosen was the [Stanford Dogs Dataset](http://vision.stanfo
 The Stanford dogs dataset had a total of 20 different breeds with at least 140 images per breed. Due to the vast amount of data there was, only 10 breeds were chosen and 140 images were taken from each breed. The total number of images in this dataset was 1400.
 
 The 10 breeds were the following:
-Maltese Dog
-Afghan Hound
-Scottish Deerhound
-Pomeranian
-Irish Wolfhound
-Bernese Mountain Dog
-Samoyed
-Shih-Tzu
-Great Pyrenees
-Leonberg
+- Maltese Dog
+- Afghan Hound
+- Scottish Deerhound
+- Pomeranian
+- Irish Wolfhound
+- Bernese Mountain Dog
+- Samoyed
+- Shih-Tzu
+- Great Pyrenees
+- Leonberg
 
+# Tools
 
-# Works Cited
-
-[InceptionV3](https://cloud.google.com/tpu/docs/inception-v3-advanced)
-
-[Scikit-learn](https://scikit-learn.org/stable/)
-
-[Keras](https://keras.io/)
+Keras was used to create the neural network models and scikit-learn was used to create the SVM model.
 
